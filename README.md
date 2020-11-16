@@ -1,0 +1,2 @@
+# mediatecnicapp
+Created with CodeSandbox
